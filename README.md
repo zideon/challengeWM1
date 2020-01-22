@@ -1,4 +1,4 @@
-# Controle de Matrícula
+# Desafio 1 Working Minds Java
 > Dado um array de inteiros com elementos randomicos desordenado, e dois inteiros (min e max), retorna os números entre min e max que não estão no array original. 
 
 ## Pré-Requisitos
