@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.xtpo.Main</mainClass>
+                            <mainClass>com.workingminds.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

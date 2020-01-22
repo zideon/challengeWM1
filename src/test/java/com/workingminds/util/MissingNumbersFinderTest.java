@@ -1,4 +1,4 @@
-package com.workingmids.util;
+package com.workingminds.util;
 
 import com.workingminds.util.MissingNumbersFinder;
 import org.junit.Test;
